@@ -1,2 +1,2 @@
 ## Schematic
-![schematic](.res/schematic.png)
+![schematic](.Res/Schematic.png)
